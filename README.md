@@ -1,22 +1,25 @@
 # Bakery Time Calculator v7
 
-سامانه محاسبه ساعت کاری نانوایی‌ها — نسخه سهمیه کل دوره
+## Login
 
-## ورود
+- **Username:** `admin`
+- **Password:** `admin`
 
-| | |
-|--|--|
-| نام کاربری | `admin` |
-| رمز عبور | `admin` |
+## Files
 
-## فایل‌ها
+Download the complete source ZIP from the project release / deployment package:
 
-- `public/calculator.html` — محاسبه‌گر کامل
-- `source/BakeryTime_Portable_v7.html` — نسخه مستقل مرورگر
+`BakeryTime_Calculator_Source_v7_admin.zip`
 
-## قابلیت‌ها
+Contents:
+- `calculator.html` / `BakeryTime_Portable_v7.html` — full calculator (open in browser)
+- Login: admin / admin
 
-- سهمیه مرحله‌ای / کل دوره (ماه کامل)
-- سهمیه ترمیمی، تعطیلی/مرخصی، آماده‌سازی
-- سهم انواع نان، مقایسه، تاریخچه
-- خروجی اکسل راست‌چین
+## Features
+
+- Stage 1 / Stage 2 / Full-month quota period
+- Repair quota, holidays, prep time
+- Bread share (base 6), compare, history
+- Excel export RTL
+
+Repo: https://github.com/kohanpour1/Bakery1
