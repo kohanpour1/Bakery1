@@ -1,15 +1,26 @@
 # Bakery Time Calculator v7
 
 ## ورود
-- **نام کاربری:** `admin`
-- **رمز عبور:** `admin`
+| | |
+|--|--|
+| نام کاربری | `admin` |
+| رمز عبور | `admin` |
 
-## استقرار
+## فایل کامل
+فایل محاسبه‌گر (~87KB) به‌دلیل محدودیت حجم API از این محیط کامل در ریپو قرار نگرفت.
+
+**منبع معتبر:** فایل ZIP سورس v7 با لاگین `admin`/`admin`
+
+### از سیستم خودتان ریپو را کامل کنید:
 ```bash
 git clone https://github.com/kohanpour1/Bakery1.git
 cd Bakery1
-python3 scripts/decode_calc.py   # اگر قطعات zparts کامل باشد
-# یا فایل calculator.html را از ZIP کپی کنید
+# فایل‌های ZIP را اینجا کپی کنید:
+#   public/calculator.html
+#   source/BakeryTime_Portable_v7.html
+git add -A
+git commit -m "Add full calculator v7"
+git push
 ```
 
-**توصیه:** فایل کامل را از `BakeryTime_Calculator_Source_v7_admin.zip` بگیرید.
+سپس از `git clone` روی سرور می‌توانید استفاده کنید.
